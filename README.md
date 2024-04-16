@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![rats4final's GitHub stats](https://github-readme-stats.vercel.app/api?username=rats4final)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **rats4final/rats4final** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
